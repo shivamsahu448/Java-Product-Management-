@@ -201,8 +201,6 @@ public class Main {
             sc.nextLine();
             if (num == 12)
                 break;
-
         }
-
     }
 }
